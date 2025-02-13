@@ -1,0 +1,34 @@
+.section-6-left{
+    animation: section6 4s forwards;
+}
+
+.section-6-right{
+    animation: section6-2 4s forwards;
+}
+
+@keyframes section6 {
+    to{
+        left:2%
+    }
+}
+@keyframes section6-2 {
+    to{
+        right:2%
+    }
+}
+.section7-1-scale{
+    animation: section7 3s forwards;
+}
+@keyframes section7 {
+    to{
+        scale: 1;
+    }
+}
+.section8-opacity{
+    animation: section8 4s forwards;
+}
+@keyframes section8 {
+    to{
+        opacity: 1;
+    }
+}
