@@ -134,13 +134,14 @@ input#open {
 }
 
 .text-one:before {
-  content:"Heart's";
+  content:"Heart's day";
   top:30px;
+  margin-left: 10px;
   color: #d04e4e;
 }
 
 .text-one:after {
-  content:"day!";
+  content:"Jessel!";
   top:60px;
 }
 
